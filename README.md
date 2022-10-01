@@ -1,5 +1,7 @@
 ### Juan Vega (He/Him)
 
+[![@juanvegadev's Holopin board](https://holopin.io/api/user/board?user=juanvegadev)](https://holopin.io/@juanvegadev)
+
 I am a product-focused Software Engineer that believes that a key element for a software product to success is technical excellence that among other things, it includes: pragmatism, good communication skills, deep understanding of business problems, and well-sized solution.
 
 [Read more...](https://juandavidvega.es)
